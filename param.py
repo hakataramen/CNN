@@ -1,0 +1,13 @@
+NUM_ITERATIONS      = 15
+NUM_MINI_BATCH      = 100
+EMBEDDING_SIZE      = 200
+POSITION_EMBEDDING_SIZE      = 20
+NUM_FILTERS         = 100
+FILTER_SIZE         = 3
+FILTER_SIZES        = [3,4,5]
+LEARNING_RATE       = 0.001
+KEEP                = 1.0
+NEGA                = 0
+L2_LAMDA            = 0.0001
+PAD_TRAINABLE       = 0
+EMBEDDING_RANGE     = 0.1
